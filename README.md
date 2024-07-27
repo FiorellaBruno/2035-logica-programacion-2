@@ -1,6 +1,6 @@
 # Juego-numero-secreto ¡Hola, bienvenido al juego del numero secreto!
 
-![imagen](-)
+![imagen](https://fiorellabruno.github.io/Juego-numero-secreto/)
 
 ## Herramientas utilizadas:
 
